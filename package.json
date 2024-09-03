@@ -1,0 +1,27 @@
+{
+  "name": "feyzakesk",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "feyza": "echo 'Benim adım Feyza'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Feyza Nur Keskin",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.6.0",
+    "nodemailer": "^6.9.14",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/feyzakesk/feyza-kesk.git"
+
+  }
+}
